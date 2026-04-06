@@ -1,4 +1,4 @@
-# Cybersecurity-incident-handler-s-journal
+# Cybersecurity-incident-handlers-journal
 Google Professional Cybersecurtity Certifiaction Portfolio Activity Examplar
 
 ## Summary
